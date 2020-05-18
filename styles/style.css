@@ -37,7 +37,7 @@ div, section, p, h1, h2, h3, h4, ul {
   position: absolute;
   left: 64px;
   top: 30px;
-  background-image: url(/images/logo_place_header.svg);
+  background-image: url('../images/logo_place_header.svg');
 }
 
 .header__title {
@@ -335,7 +335,7 @@ div, section, p, h1, h2, h3, h4, ul {
   left: 0;
   width: 183px;
   height: 35px;
-  background-image: url(/images/logo_place_footer.svg);
+  background-image: url('../images/logo_place_footer.svg');
 }
 
 .footer__author {
