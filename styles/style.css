@@ -272,6 +272,7 @@ div, section, p, h1, h2, h3, h4, ul {
 
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: contain;
   width: 877px;
   height: 877px;
   position: absolute;
