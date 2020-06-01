@@ -1,0 +1,17 @@
+@import url(./__title/header__title.css);
+@import url(./__subtitile/header__subtitle.css);
+@import url(./__square-pic/header__square-pic.css);
+@import url(./__main-illustaration/header__main-illustation.css);
+@import url(./__link/header__link.css);
+
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
